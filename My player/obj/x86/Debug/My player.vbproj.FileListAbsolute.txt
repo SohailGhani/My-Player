@@ -1,0 +1,42 @@
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\bin\Debug\My player.exe
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\bin\Debug\My player.pdb
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\bin\Debug\My player.xml
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\bin\Debug\Interop.WMPLib.dll
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\obj\x86\Debug\My player.vbproj.ResolveComReference.cache
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\obj\x86\Debug\My_player.Form1.resources
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\obj\x86\Debug\My_player.Resources.resources
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\obj\x86\Debug\My player.vbproj.GenerateResource.Cache
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\obj\x86\Debug\My player.exe
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\obj\x86\Debug\My player.xml
+C:\Users\GRaaN\AppData\Local\Temporary Projects\My player\obj\x86\Debug\My player.pdb
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\obj\x86\Debug\Interop.WMPLib.dll
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\obj\x86\Debug\My player.vbproj.ResolveComReference.cache
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\obj\x86\Debug\My player.exe
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\obj\x86\Debug\My player.xml
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\obj\x86\Debug\My player.pdb
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\bin\Debug\My player.exe
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\bin\Debug\My player.pdb
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\bin\Debug\My player.xml
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\bin\Debug\Interop.WMPLib.dll
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\bin\Debug\AxInterop.WMPLib.dll
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\obj\x86\Debug\My_player.Form1.resources
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\obj\x86\Debug\My_player.Resources.resources
+E:\CSE\3rd semister\VP\Lab Tasks\My player\My player\obj\x86\Debug\My player.vbproj.GenerateResource.Cache
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\obj\x86\Debug\Interop.WMPLib.dll
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\obj\x86\Debug\My player.vbproj.ResolveComReference.cache
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\obj\x86\Debug\My player.exe
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\obj\x86\Debug\My player.xml
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\obj\x86\Debug\My player.pdb
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\bin\Debug\My player.exe
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\bin\Debug\My player.pdb
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\bin\Debug\My player.xml
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\bin\Debug\Interop.WMPLib.dll
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\bin\Debug\AxInterop.WMPLib.dll
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\obj\x86\Debug\My_player.Form1.resources
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\obj\x86\Debug\My_player.Resources.resources
+E:\CSE\3rd semister\VP\Project\Project\My player\My player\obj\x86\Debug\My player.vbproj.GenerateResource.Cache
